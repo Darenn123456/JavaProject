@@ -7,6 +7,7 @@ package com.lesson.lesson002.home.work;
 // Потом добавляет в него 430 рублей
 // Потом отдает кошеле жене и она его обнуляет
 // Каждый этап программы напечатать в консоль
+
 public class Hw2 {
     public static void main(String[] args) {
 

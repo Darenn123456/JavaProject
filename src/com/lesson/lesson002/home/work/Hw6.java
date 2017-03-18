@@ -7,4 +7,10 @@ package com.lesson.lesson002.home.work;
 // 2) не первый этаж и цена меньше 1500_000 рублей
 // 3) количество комнат больше 3 или цена не больше 1000_000
 public class Hw6 {
+    public static void main(String[] args) {
+
+
+
+
+    }
 }
