@@ -21,5 +21,6 @@ public class Hw3 {
 
         System.out.println("Вы можете купить: " + (Money / Price) + " рублей");
         System.out.println("У вас останется: " + (Money % Price) + " рублей");
+
     }
 }
