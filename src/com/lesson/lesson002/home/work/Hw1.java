@@ -12,6 +12,7 @@ public class Hw1 {
         System.out.println("ЯДро процессора загружено на 53%");
         System.out.println("Количество пользователей онлайн: 1152");
 
+
     }
 
 }
