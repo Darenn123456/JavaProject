@@ -8,4 +8,18 @@ package com.lesson.lesson002.home.work;
 // Потом отдает кошеле жене и она его обнуляет
 // Каждый этап программы напечатать в консоль
 public class Hw2 {
+    public static void main(String[] args) {
+
+        int Money = 1200;
+
+        System.out.println("У вас в кошельке имеется " + Money + "рублей");
+        System.out.println("Пользоатель снял 300 рублей с кошелька");
+               Money = Money - 300;
+        System.out.println("Теперь у вас в кошельке " + Money + " рублей");
+                Money = Money + 430;
+        System.out.println("Теперь у вас в кошельке " + Money + " рублей");
+                Money = 0;
+        System.out.println("Ваш кошелек был обнулён. Теперь на вашем счету " + Money + " рублей");
+
+    }
 }
